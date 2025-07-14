@@ -1,6 +1,7 @@
 venv/
 venv
 .idea
+.idea/
 .vs
 db.sqlite3
 __pycache__
